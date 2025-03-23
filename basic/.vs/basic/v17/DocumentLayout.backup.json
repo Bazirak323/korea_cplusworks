@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\IFEX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\IFEX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\InputEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\InputEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operation2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\Operation2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operater1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\Operater1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\TypeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\TypeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\Variable2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A7C5C3F-2795-4299-A244-5AAB43A11D6B}|basic\\basic.vcxproj|solutionrelative:basic\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFEX.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\IFEX.cpp",
+              "RelativeDocumentMoniker": "basic\\IFEX.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\IFEX.cpp",
+              "RelativeToolTip": "basic\\IFEX.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:40:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputEx.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\InputEx.cpp",
+              "RelativeDocumentMoniker": "basic\\InputEx.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\InputEx.cpp",
+              "RelativeToolTip": "basic\\InputEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:15:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operation2.cpp",
+              "RelativeDocumentMoniker": "basic\\Operation2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operation2.cpp",
+              "RelativeToolTip": "basic\\Operation2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:01:53.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operater1.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operater1.cpp",
+              "RelativeDocumentMoniker": "basic\\Operater1.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Operater1.cpp",
+              "RelativeToolTip": "basic\\Operater1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:38:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeConversion.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\TypeConversion.cpp",
+              "RelativeDocumentMoniker": "basic\\TypeConversion.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\TypeConversion.cpp",
+              "RelativeToolTip": "basic\\TypeConversion.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:24:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Variable2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable2.cpp",
+              "RelativeDocumentMoniker": "basic\\Variable2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable2.cpp",
+              "RelativeToolTip": "basic\\Variable2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T01:05:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Variable.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable.cpp",
+              "RelativeDocumentMoniker": "basic\\Variable.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\basic\\basic\\Variable.cpp",
+              "RelativeToolTip": "basic\\Variable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:36:11.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
