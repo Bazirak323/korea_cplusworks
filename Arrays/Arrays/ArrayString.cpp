@@ -1,14 +1,18 @@
 #include <iostream>
-using namespace std;
 #include <string>
-int main()
+using namespace std;
+int main_zz()
 {
 	string cart[] = { "¶ó¸é", "»§", "È­ÀåÁö", "»ı¼ö" };
 
-	cout << cart[0] << endl;
+	cout << cart[1] << endl;
 
 
 	cout << size(cart) << endl;
+
+	cart[1] = "½Ò";
+
+	
 
 
 	for (int i = 0; i < size(cart); i++)

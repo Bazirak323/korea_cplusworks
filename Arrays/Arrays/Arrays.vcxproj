@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayInt.cpp" />
+    <ClCompile Include="ArrayMax.cpp" />
     <ClCompile Include="ArrayString.cpp" />
+    <ClCompile Include="seat.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
