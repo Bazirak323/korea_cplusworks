@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\RAND.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|solutionrelative:Functions\\RAND.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|solutionrelative:Functions\\MathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|solutionrelative:Functions\\TimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2588019-2E20-46B2-A609-5963F06F1365}|Functions\\Functions.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\ReturnFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RAND.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\RAND.cpp",
+              "RelativeDocumentMoniker": "Functions\\RAND.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\RAND.cpp",
+              "RelativeToolTip": "Functions\\RAND.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:29:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TimeEx.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\TimeEx.cpp",
               "RelativeDocumentMoniker": "Functions\\TimeEx.cpp",
               "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\TimeEx.cpp",
               "RelativeToolTip": "Functions\\TimeEx.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T01:39:54.264Z",
               "EditorCaption": ""
@@ -49,14 +66,14 @@
               "RelativeDocumentMoniker": "Functions\\MathEx.cpp",
               "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\MathEx.cpp",
               "RelativeToolTip": "Functions\\MathEx.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T01:29:43.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReturnFunctions.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\ReturnFunctions.cpp",
               "RelativeDocumentMoniker": "Functions\\ReturnFunctions.cpp",
@@ -64,12 +81,11 @@
               "RelativeToolTip": "Functions\\ReturnFunctions.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:18:18.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:18:18.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VoidFunction.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Functions\\Functions\\VoidFunction.cpp",
               "RelativeDocumentMoniker": "Functions\\VoidFunction.cpp",
@@ -77,8 +93,7 @@
               "RelativeToolTip": "Functions\\VoidFunction.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T01:10:48.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:10:48.925Z"
             }
           ]
         }

@@ -1,0 +1,13 @@
+﻿  Books.cpp
+C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(69,38): error C2039: 'getnumber': 'Book'의 멤버가 아닙니다.
+      C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(4,7):
+      'Book' 선언을 참조하십시오.
+  
+C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(70,38): error C2039: 'gettitle': 'Book'의 멤버가 아닙니다.
+      C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(4,7):
+      'Book' 선언을 참조하십시오.
+  
+C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(71,41): error C2039: 'getauthor': 'Book'의 멤버가 아닙니다.
+      C:\cppworksdooooooooooooooooooooo\Classes\Classes\Books.cpp(4,7):
+      'Book' 선언을 참조하십시오.
+  

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BF3E041-65EF-4E69-8002-847EA660FD41}|Practice\\Practice.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BF3E041-65EF-4E69-8002-847EA660FD41}|Practice\\Practice.vcxproj|solutionrelative:Practice\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BF3E041-65EF-4E69-8002-847EA660FD41}|Practice\\Practice.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BF3E041-65EF-4E69-8002-847EA660FD41}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\ArrayTest.cpp",
+              "RelativeDocumentMoniker": "Practice\\ArrayTest.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\ArrayTest.cpp*",
+              "RelativeToolTip": "Practice\\ArrayTest.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:09:47.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Seat.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\Seat.cpp",
               "RelativeDocumentMoniker": "Practice\\Seat.cpp",
-              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\Seat.cpp*",
-              "RelativeToolTip": "Practice\\Seat.cpp*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Practice\\Practice\\Seat.cpp",
+              "RelativeToolTip": "Practice\\Seat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-29T00:47:29.032Z",
               "EditorCaption": ""
