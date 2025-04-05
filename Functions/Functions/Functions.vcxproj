@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InlineFunction.cpp" />
+    <ClCompile Include="InlineFunctions2.cpp" />
     <ClCompile Include="MathEx.cpp" />
     <ClCompile Include="RAND.cpp" />
+    <ClCompile Include="Reference.cpp" />
     <ClCompile Include="ReturnFunctions.cpp" />
     <ClCompile Include="TimeEx.cpp" />
     <ClCompile Include="VoidFunction.cpp" />
