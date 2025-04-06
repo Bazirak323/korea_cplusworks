@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\Templates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|solutionrelative:Templates\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|solutionrelative:Templates\\VectorEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|solutionrelative:Templates\\TemplateEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3584E46B-C723-4B91-A214-671F8ED58F2B}|Templates\\Templates.vcxproj|solutionrelative:Templates\\TemplateEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "Templates\\BankAccount.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\BankAccount.cpp*",
+              "RelativeToolTip": "Templates\\BankAccount.cpp*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T02:26:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorEx2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx2.cpp",
+              "RelativeDocumentMoniker": "Templates\\VectorEx2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx2.cpp",
+              "RelativeToolTip": "Templates\\VectorEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T02:01:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorEx.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx.cpp",
+              "RelativeDocumentMoniker": "Templates\\VectorEx.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\VectorEx.cpp",
+              "RelativeToolTip": "Templates\\VectorEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T01:41:41.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateEx2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx2.cpp",
+              "RelativeDocumentMoniker": "Templates\\TemplateEx2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx2.cpp",
+              "RelativeToolTip": "Templates\\TemplateEx2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T01:30:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateEx.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx.cpp",
+              "RelativeDocumentMoniker": "Templates\\TemplateEx.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Templates\\Templates\\TemplateEx.cpp",
+              "RelativeToolTip": "Templates\\TemplateEx.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T01:22:14.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

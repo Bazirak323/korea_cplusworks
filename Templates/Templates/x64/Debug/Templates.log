@@ -1,0 +1,4 @@
+﻿  BankAccount.cpp
+C:\cppworksdooooooooooooooooooooo\Templates\Templates\BankAccount.cpp(74,22): warning C4305: '인수': '__int64'에서 'int'(으)로 잘립니다.
+C:\cppworksdooooooooooooooooooooo\Templates\Templates\BankAccount.cpp(74,22): warning C4309: '인수': 상수 값이 잘립니다.
+  Templates.vcxproj -> C:\cppworksdooooooooooooooooooooo\Templates\x64\Debug\Templates.exe

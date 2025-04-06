@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\class2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|solutionrelative:class2\\StaticEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|solutionrelative:class2\\StaticEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20FBE517-733A-4F24-966C-B53F8A4292C3}|class2\\class2.vcxproj|solutionrelative:class2\\StaticEx3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticEx3.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx3.cpp",
+              "RelativeDocumentMoniker": "class2\\StaticEx3.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx3.cpp",
+              "RelativeToolTip": "class2\\StaticEx3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T00:45:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticEx2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx2.cpp",
+              "RelativeDocumentMoniker": "class2\\StaticEx2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx2.cpp",
+              "RelativeToolTip": "class2\\StaticEx2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T00:31:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticEx.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx.cpp",
+              "RelativeDocumentMoniker": "class2\\StaticEx.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\class2\\class2\\StaticEx.cpp",
+              "RelativeToolTip": "class2\\StaticEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T00:09:21.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
