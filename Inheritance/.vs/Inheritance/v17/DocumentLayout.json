@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\SaleStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\SaleStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\CarOverriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\CarOverriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTese.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19951D5-2A26-4596-88BB-96B7EABF9A6C}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\StudentTese.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleStatement.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\SaleStatement.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\SaleStatement.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\SaleStatement.cpp",
+              "RelativeToolTip": "Inheritance\\SaleStatement.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:42:45.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarOverriding.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\CarOverriding.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\CarOverriding.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\CarOverriding.cpp",
+              "RelativeToolTip": "Inheritance\\CarOverriding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:32:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentTest2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTest2.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\StudentTest2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTest2.cpp",
+              "RelativeToolTip": "Inheritance\\StudentTest2.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:23:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTese.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTese.cpp",
+              "RelativeDocumentMoniker": "Inheritance\\StudentTese.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Inheritance\\Inheritance\\StudentTese.cpp",
+              "RelativeToolTip": "Inheritance\\StudentTese.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:05:01.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

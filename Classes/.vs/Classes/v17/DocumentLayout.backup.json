@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\InputPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\InputPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\MemberService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\PointerCircle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Bookl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\Dog2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACA28672-45F3-4C27-B484-32817424ECCB}|Classes\\Classes.vcxproj|solutionrelative:Classes\\dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -47,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InputPoint.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\InputPoint.cpp",
+              "RelativeDocumentMoniker": "Classes\\InputPoint.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\InputPoint.cpp*",
+              "RelativeToolTip": "Classes\\InputPoint.cpp*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T00:28:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberService.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\MemberService.cpp",
+              "RelativeDocumentMoniker": "Classes\\MemberService.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\MemberService.cpp",
+              "RelativeToolTip": "Classes\\MemberService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T00:08:35.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Transport.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Transport.cpp",
               "RelativeDocumentMoniker": "Classes\\Transport.cpp",
               "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Transport.cpp",
               "RelativeToolTip": "Classes\\Transport.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-05T02:20:44.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PointerCircle.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\PointerCircle.cpp",
               "RelativeDocumentMoniker": "Classes\\PointerCircle.cpp",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BirthDay.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\BirthDay.cpp",
               "RelativeDocumentMoniker": "Classes\\BirthDay.cpp",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Books2.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Books2.cpp",
               "RelativeDocumentMoniker": "Classes\\Books2.cpp",
@@ -95,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Books.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Books.cpp",
               "RelativeDocumentMoniker": "Classes\\Books.cpp",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Bookl.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Bookl.cpp",
               "RelativeDocumentMoniker": "Classes\\Bookl.cpp",
@@ -119,19 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Dog2.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Dog2.cpp",
               "RelativeDocumentMoniker": "Classes\\Dog2.cpp",
               "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\Dog2.cpp",
               "RelativeToolTip": "Classes\\Dog2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T00:44:50.86Z"
+              "WhenOpened": "2025-03-30T00:44:50.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "dog.cpp",
               "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\Classes\\Classes\\dog.cpp",
               "RelativeDocumentMoniker": "Classes\\dog.cpp",
