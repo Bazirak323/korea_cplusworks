@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FilescoreList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\FilescoreList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\FileScore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\FileRead1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\FileWrite1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\ExceptionEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40DACDA-369F-42D1-A66D-D3C1F5D50EC1}|ExceptionAndFileIO\\ExceptionAndFileIO.vcxproj|solutionrelative:ExceptionAndFileIO\\ExceptionEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilescoreList.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FilescoreList.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\FilescoreList.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FilescoreList.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\FilescoreList.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0cAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T02:29:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileScore.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileScore.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\FileScore.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileScore.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\FileScore.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T02:23:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRead1.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileRead1.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\FileRead1.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileRead1.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\FileRead1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T02:13:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileWrite1.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileWrite1.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\FileWrite1.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\FileWrite1.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\FileWrite1.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T02:04:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionEx2.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx2.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\ExceptionEx2.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx2.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\ExceptionEx2.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T01:37:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionEx1.cpp",
+              "DocumentMoniker": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx1.cpp",
+              "RelativeDocumentMoniker": "ExceptionAndFileIO\\ExceptionEx1.cpp",
+              "ToolTip": "C:\\cppworksdooooooooooooooooooooo\\ExceptionAndFileIO\\ExceptionAndFileIO\\ExceptionEx1.cpp",
+              "RelativeToolTip": "ExceptionAndFileIO\\ExceptionEx1.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T01:24:56.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
